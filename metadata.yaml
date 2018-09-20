@@ -1,5 +1,5 @@
 _repo: Aenigmata-Fennica-Suomalaiset-Arwotuxet-Wastauksien-kansa_53229
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Ganander, Christfrid
@@ -10,7 +10,12 @@ contributor:
     deathdate: 1790
     gutenberg_agent_id: '43898'
     url: http://www.gutenberg.org/2009/agents/43898
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53229#Aenigmata-Fennica-Suomalaiset-Arwotuxet-Wastauksien-kansa
 gutenberg_issued: '2016-10-07'
 gutenberg_type: Text
 identifiers:
